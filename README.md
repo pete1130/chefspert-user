@@ -10,8 +10,5 @@ The user can either like the dishes, leave a comment, or purchase the selected d
 ## Tech: 
 This app is built with React.js and Redux.
 
-## Link: 
-https://chefspert.now.sh/
-
 ## App snapshot: 
 ![](screenshotuser.gif)
