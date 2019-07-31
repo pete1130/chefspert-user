@@ -4,7 +4,6 @@ const helmet = require('helmet')
 const path = require('path')
 // const mustacheExpress = require('mustache-express') // example for using server side views
 
-// I mentioned this bit of code already, just make sure that it's in the server once at the top of the file
 if (process.env.NODE_ENV == 'development') {
   require('dotenv').config()
 }
